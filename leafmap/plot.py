@@ -595,7 +595,7 @@ def histogram(
     layout_args={},
     **kwargs,
 ):
-    """Create line charts with plotly.express,
+    """Create line chart with plotly.express,
 
     Args:
         data: DataFrame | array-like | dict | str (local file path or HTTP URL)
